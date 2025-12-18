@@ -3,4 +3,4 @@ Disparity and diversity analyses and visualizations of Maastrichtian and Palaeoc
 
 The R code reproduces the analyses and figures in the paper "Changes in morphological disparity of angiosperm pollen across the Cretaceous–Palaeogene boundary in North America" by H. Nowak, P.E. Jardine, L. Mander, W.T. Fraser, and B.H. Lomax.
 
-This work was funded through NERC grant NE/T000392/1.
+This work was funded through NERC grant NE/T000392/1 as part of the project “Solar irradiance and vegetation dynamics at the K/Pg boundary”. P.E. Jardine acknowledges funding from the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) project numbers 443701866 and 521558051.
